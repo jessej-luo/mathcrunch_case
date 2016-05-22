@@ -1,6 +1,7 @@
 # Yup Case Study
 
 Jesse Luo
+
 This case study was done as part of the application to Yup with the sample data from the tutors exported to tutors.csv and imported into this python3 program. It was done using an iPython Notebook which is inside this repository and can be looked at. It has its own comments, which are also shown here. The work was done in the iPython Notebook and then conclusions were written up here.
 
 ## Introduction
