@@ -303,6 +303,7 @@ In general, we want the tutors to differ by about 1 on average from the rubric, 
 ## Conclusion
 Through the analysis, I recognized that the general pattern was that the criteria did not seem specific enough for the senior tutors to decide consistently on a decision. The Yes/No nature of the criteria causes a lot of issues regarding what's good enough to constitute a Yes and what's not good enough so that it constitutes a No. This minimalistic approach could be improved by expanding the criteria to having more levels for each criteria and providing specific examples as to which would be considered a 1, 2, 3, 4, or 5. An example of this would be like the writing rubrics used in the IB diploma, it's very clear as to what constitutes a 1, 2, ... , 7. There's a description for each grade that encompasses all elements that would constitue each score. This type of detail could be applied to each part of the criterion. By providing such a detailed rubric, it would make it clear to junior and senior tutors what the expectations are, and would reduce variability and misinterpretation. Finally, it would be helpful to speak to senior tutors about what they would consider mediocre -> outstanding to gauge how they see the criterion and then if the views are very different from the answer key, have a discussion with the senior tutor about the misalignments. 
 
-
+#### Notes
+I didn't include all the python code, a lot of stuff was done before I could do this data analysis. All of the preprocessing and such is in the ipynb included in this repository. 
 
 
